@@ -1,0 +1,29 @@
+/* .swal-modal
+{
+    background:linear-gradient(121.13285689169777deg, rgba(38, 58, 72,1) 38.35286458333334%,rgba(81, 119, 149,1) 95.51562499999999%);
+}
+.swal-text
+{
+    color:#3cd2a5;
+}
+.swal-button.swal-button--confirm
+{
+    background-color: var(--bs-theme);
+    border-color: var(--bs-theme);
+} */
+.text-white
+{
+    color:#fff!important;
+}
+.zoom-8
+{
+   zoom:0.8;
+} 
+.text-red
+{
+    color:red!important;
+}
+.text-info
+{
+    color:#0dcaf0!important;
+}
